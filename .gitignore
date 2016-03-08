@@ -9,3 +9,8 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+
+*.iml
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
